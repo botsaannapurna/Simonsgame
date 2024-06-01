@@ -1,2 +1,1 @@
-# Simonsgame
-My simons game
+# simons-game
